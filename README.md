@@ -58,4 +58,9 @@ This project demonstrates how to extract, cluster, and interpret topics in large
 - Scikit-learn clustering examples
 - OpenAI ChatGPT assistance
 
+## 📬 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/priyanshu-bisht-20b29521b/
+- Email: bisht.priyanshu05@gmail.com
+
+
 
